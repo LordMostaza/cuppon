@@ -1,0 +1,38 @@
+.nav__ {
+    background-color: #28A745;
+}
+
+.form {
+    background-color: #28A745;
+}
+
+.p1 {
+    color: grey;
+}
+
+.sub1 {
+    color: #707070;
+}
+
+.sub2 {
+    color: #707070;
+}
+
+.sub3 {
+    color: #28A745;
+    font-size: 20px;
+}
+
+.parrafo {
+    text-align: end;
+}
+
+.descripcion {
+    font-family: "roboto, sans-serif";
+    font-weight: 300;
+}
+
+.formulario {
+    font-family: roboto, sans-serif;
+    font-weight: 500;
+}
